@@ -1,45 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg fill="white" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Capa_1" x="0px" y="0px" width="510px"
-    height="510px" viewBox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve"
-    inkscape:version="0.91 r13725" sodipodi:docname="notification_logo.svg">
-    <metadata id="metadata42">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <defs id="defs40" />
-    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
-        gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
-        inkscape:window-width="1920" inkscape:window-height="1145" id="namedview38" showgrid="false"
-        inkscape:zoom="0.4627451" inkscape:cx="-282.01271" inkscape:cy="255" inkscape:window-x="0"
-        inkscape:window-y="27" inkscape:window-maximized="1" inkscape:current-layer="Capa_1" />
-    <g id="g3" transform="matrix(0.87658593,0,0,0.87658593,31.470588,31.470588)">
-        <g id="notifications">
-            <path
-                d="m 255,510 c 28.05,0 51,-22.95 51,-51 l -102,0 c 0,28.05 22.95,51 51,51 z m 165.75,-153 0,-140.25 C 420.75,137.7 367.2,73.95 293.25,56.1 l 0,-17.85 C 293.25,17.85 275.4,0 255,0 234.6,0 216.75,17.85 216.75,38.25 l 0,17.85 C 142.8,73.95 89.25,137.7 89.25,216.75 l 0,140.25 -51,51 0,25.5 433.5,0 0,-25.5 -51,-51 z"
-                id="path6" inkscape:connector-curvature="0" />
-        </g>
-    </g>
-    <g id="g8" />
-    <g id="g10" />
-    <g id="g12" />
-    <g id="g14" />
-    <g id="g16" />
-    <g id="g18" />
-    <g id="g20" />
-    <g id="g22" />
-    <g id="g24" />
-    <g id="g26" />
-    <g id="g28" />
-    <g id="g30" />
-    <g id="g32" />
-    <g id="g34" />
-    <g id="g36" />
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#ffffff" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<g>
+		<path d="M462.141,370.555c-0.005-1.399-0.28-2.803-0.869-4.12l-20.727-46.429l-27.076-184.011
+			c-5.56-37.78-24.537-72.331-53.438-97.291C331.132,13.745,294.185,0,256,0c-38.186,0-75.132,13.745-104.033,38.705
+			s-47.878,59.511-53.438,97.291L71.454,320.007l-20.727,46.429c-0.589,1.317-0.864,2.72-0.869,4.12
+			c-0.01,0.023-0.017,0.038-0.017,0.038v64.752c0,5.633,4.566,10.199,10.199,10.199h117.448
+			c5.005,37.46,37.148,66.455,75.956,66.455h5.113c38.808,0,70.95-28.995,75.956-66.456H451.96c5.633,0,10.199-4.566,10.199-10.199
+			v-64.752C462.158,370.593,462.151,370.579,462.141,370.555z M118.711,138.964C128.656,71.371,187.678,20.398,256,20.398
+			s127.343,50.973,137.288,118.566l25.561,173.718H93.15L118.711,138.964z M87.956,333.081h336.086l12.193,27.313H75.763
+			L87.956,333.081z M258.555,491.602h-5.113c-27.538,0-50.518-19.889-55.33-46.058h115.772
+			C309.074,471.712,286.093,491.602,258.555,491.602z M441.76,425.146H70.239v-44.353h371.52V425.146z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M263.667,285.419H149.5c-5.633,0-10.199,4.566-10.199,10.199c0,5.633,4.566,10.199,10.199,10.199h114.168
+			c5.633,0,10.199-4.566,10.199-10.199C273.867,289.985,269.3,285.419,263.667,285.419z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M122.236,285.419h-5.964c-5.633,0-10.199,4.566-10.199,10.199c0,5.633,4.566,10.199,10.199,10.199h5.964
+			c5.633,0,10.199-4.566,10.199-10.199C132.435,289.985,127.869,285.419,122.236,285.419z"/>
+	</g>
+</g>
 </svg>
